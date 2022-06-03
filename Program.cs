@@ -31,6 +31,7 @@ else
     Console.WriteLine();
 }
 
+
 // Pausa para o usuário ver o resultado
 Console.Write("\nPressione uma tecla para finalizar... ");
 Console.ReadKey();
